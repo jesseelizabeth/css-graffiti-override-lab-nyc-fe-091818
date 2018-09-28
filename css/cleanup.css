@@ -10,5 +10,5 @@ div .tag-1 {
 }
 
 #wall #tag-2 {
-  display: none;
+  display: none !important;
 }
