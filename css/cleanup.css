@@ -14,5 +14,5 @@ div .tag-1 {
 }
 
 #wall #tag-3.slick-wicked {
-  display: none;
+  display: none !important;
 }
