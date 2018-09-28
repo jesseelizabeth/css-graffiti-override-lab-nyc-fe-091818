@@ -13,6 +13,6 @@ div .tag-1 {
   display: none !important;
 }
 
-div #wall #tag-3.slick-wicked {
+#wall #tag-3.slick-wicked {
   display: none;
 }
