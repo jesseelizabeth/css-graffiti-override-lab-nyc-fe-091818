@@ -10,3 +10,7 @@ div .parent {
 div .tag-1 {
   display: none;
 }
+
+div #tag-2 #tag-3 #tag-4 #tag-5 #tag-6 #tag-7 {
+  display: none;
+}
