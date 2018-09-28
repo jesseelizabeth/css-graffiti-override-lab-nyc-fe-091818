@@ -1,8 +1,4 @@
 /* write your override styles here */
-.tag-1 tag-2 tag-3 {
-  display: none;
-}
-
-.parent {
+div #wall {
   display: none;
 }
